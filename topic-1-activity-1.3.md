@@ -12,7 +12,7 @@ I like the sound of this job because it involves server management and data mani
 
 This job dosnt have a lot of information about exactly what it is but it deals with networks and cloud severs.  
   
-In conclusion, I really like server tech and networking is very appealing to me as i find properly connecting different systems and getting them to seamlessly talk to each other very satisfying. I also a bit of a data horder so I the idea of large data networks and finding a use for that data very interesting.
+In conclusion, I really like server tech and networking is very appealing to me as i find properly connecting different systems and getting them to seamlessly talk to each other very satisfying. I also a bit of a data hoarder so I the idea of large data networks and finding a use for that data very interesting.
 
 
 
