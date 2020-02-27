@@ -10,7 +10,8 @@
 #### Maintenance 
 
 * Updates and Security: IT support is crucial in ensuring your systems are up to date with the latest security software and ensuring your programs and systems are compatible when they eventually become outdated and need upgrading.
-* 
+* Troubleshooting and Bug Fixing
+
 #### Automation and Efficiency
 
 * Supply Chain: supply chains are a messy business and there are a lot of things to keep track of and subsequently a lot of things can go wrong. IT support can design and implement automated solutions to these problems greatly decreasing the amounts of work involved in running a supply chain.
