@@ -1,6 +1,13 @@
 # Topic 2 - Activity 2.2
 
-[https://www.aurainfosec.com/](https://www.aurainfosec.com/) 
+{% embed url="https://www.aurainfosec.com/" %}
+
+Aura is a security consultant company that helps businesses understand and implement effective security measures.  
+Their stakeholders include:
+
+Investors
+
+Customers
 
 
 
