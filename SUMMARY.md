@@ -8,4 +8,5 @@
 * [Topic 1 - Activity 1.5](topic-1-activity-1.5.md)
 * [Topic 2 - Activity 2.1](topic-2-activity-2.1.md)
 * [Topic 2 - Activity 2.2](topic-2-activity-2.2.md)
+* [Topic 3 - Activity 3.1](topic-3-activity-3.1.md)
 
