@@ -9,4 +9,5 @@
 * [Topic 2 - Activity 2.1](topic-2-activity-2.1.md)
 * [Topic 2 - Activity 2.2](topic-2-activity-2.2.md)
 * [Topic 3 - Activity 3.1](topic-3-activity-3.1.md)
+* [Topic 3 - Acticity 3.2](topic-3-acticity-3.2.md)
 
