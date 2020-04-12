@@ -41,7 +41,7 @@ Ashen is a Xbox 1 and PC adventure, combat, puzzle game clearly inspired by brea
 
 [https://www.lucid.co.nz/](https://www.lucid.co.nz/) - Sad Dinosaur
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 [https://www.equinox.co.nz/](https://www.equinox.co.nz/) - Service Provider
 
