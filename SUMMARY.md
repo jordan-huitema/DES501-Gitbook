@@ -11,4 +11,5 @@
 * [Topic 3 - Activity 3.1](topic-3-activity-3.1.md)
 * [Topic 3 - Activity 3.2](topic-3-acticity-3.2.md)
 * [Topic 3 - Activity 3.3](topic-3-activity-3.3.md)
+* [Topic 4 - Activity 4.1](topic-4-activity-4.1.md)
 
