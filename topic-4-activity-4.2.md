@@ -38,3 +38,9 @@ This turns a simple 1-5 minute job of looking to see what assessments you should
 
 ![](.gitbook/assets/image%20%284%29.png)
 
+
+
+**4. Prepare to present your findings, as a group, in class.**
+
+sure thing bud
+
