@@ -13,4 +13,6 @@
 * [Topic 3 - Activity 3.3](topic-3-activity-3.3.md)
 * [Topic 4 - Activity 4.1](topic-4-activity-4.1.md)
 * [Topic 4 - Activity 4.2](topic-4-activity-4.2.md)
+* [Topic 5 - Activity 5.1](topic-5-activity-5.1.md)
+* [Topic 5 - Activity 5.2](topic-5-activity-5.2.md)
 
