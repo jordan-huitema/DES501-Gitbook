@@ -17,4 +17,5 @@
 * [Topic 5 - Activity 5.2](topic-5-activity-5.2.md)
 * [Topic 6 - Activity 6.1](topic-6-activity-6.1.md)
 * [Topic 6 - Activity 6.2](topic-6-activity-6.2.md)
+* [Topic 6 - Activity 6.3](topic-6-activity-6.3.md)
 
