@@ -30,13 +30,15 @@ Using an active voice when writing web content is all about keeping the user eng
 
 Active Voice: "The number increased by 1"
 
-Passive Voice: "The number then increased by a amount of one"
+Passive Voice: "The number was then increased by an amount of one"
 
 **7.Putting content into context**
 
-\*\*\*\*
+This refers to the position and size of content on a page e.g. putting a video description under the video to show it is reffering to that video and not another peice of content or for example making more important content higher contrast or larger to show its significance to other content.
 
 **8.Editing and proofreading**
+
+This one is obvious with any content being put into the public eye, it is always important to check there are no mistakes or errors as well as check the content makes sense in the context it is being viewed.
 
 \*\*\*\*
 
